@@ -13,4 +13,5 @@ this code features the following functions:
 - wins counter
 - losses counter
 - ties counter
+  
 they are all displayed after you finish playing
