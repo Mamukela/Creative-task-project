@@ -8,4 +8,9 @@ This code is a big bang theory twist on the classic game, rock paper scissors, n
 - spock: wins against rock and scissors
 
 ## features
-this code features a win and a loss counter, and you can play as long as you want
+this code features the following functions:
+- rounds counter
+- wins counter
+- losses counter
+- ties counter
+they are all displayed after you finish playing
